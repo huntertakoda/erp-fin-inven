@@ -1,0 +1,4 @@
+2024-12-26 19:11:12,827 - ERROR - error logging performance data: name 'os' is not defined
+2024-12-26 19:11:12,884 - ERROR - error measuring performance for etl_automation.py: Command '['python', 'etl_automation.py']' returned non-zero exit status 1.
+2024-12-26 19:11:12,937 - ERROR - error measuring performance for real_time_data_ingestion.py: Command '['python', 'real_time_data_ingestion.py']' returned non-zero exit status 1.
+2024-12-26 19:11:12,937 - ERROR - error analyzing performance logs: name 'os' is not defined
